@@ -1,0 +1,93 @@
+#resim1{
+text-align: center;
+}
+
+#resim2{
+    width: 20px;
+    height: 20px;
+}
+#resim3{
+    width: 20px;
+    height: 20px;
+ 
+}
+#resim4{
+    text-align: center;
+}
+#link1{
+    text-align: center;
+}
+#link1 ul{
+    list-style-type:none;
+}
+#resim5{
+    text-align: center;
+    margin-top: 100px;
+}
+#resim6{
+    width: 272px;
+    height: 92px;
+
+}
+#arama{
+    text-align: center;
+    
+}
+#ara{
+    width: 200px;
+}
+
+
+#alt{
+    bottom:0px;
+position:fixed;
+}
+#altsol{
+    text-align:left;
+}
+#altsol ul{
+    display: flex;
+    list-style-type: none;
+ margin: 0;
+  padding: 0;
+overflow: hidden;
+}
+
+#altsol ul li {
+    float:right;
+}
+#altsol ul li a {
+    padding:12px 14px;
+
+}
+#altsag{
+text-align:right;
+float: right;
+margin-left: 700px;
+}
+#altsag ul{
+    display: flex;
+    list-style-type: none;
+ margin: 0;
+  padding: 0;
+overflow: hidden;
+}
+
+#altsag ul li {
+    float:right;
+}
+#altsag ul li a {
+    padding:12px 14px;
+
+}
+
+#buton{
+ text-align: center;
+ border: 1px;
+ border-color: #f2f2f2 ;
+ text-decoration: Arial;
+ text-decoration-color: #5f6368;
+ text-size-adjust: 14px;
+height: 36px ;
+
+}
